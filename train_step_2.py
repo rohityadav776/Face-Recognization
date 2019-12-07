@@ -1,5 +1,5 @@
 
-
+#This code for face recognization.
 
 from PIL import Image
 
