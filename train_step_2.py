@@ -2,7 +2,7 @@
 #This code for face recognization.
 #This is tranning set file.
 from PIL import Image
-
+#Here it define os
 
 
 
