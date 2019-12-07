@@ -2,7 +2,7 @@
 
 
 from PIL import Image
-
+#Here it define os
 
 
 
